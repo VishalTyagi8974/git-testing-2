@@ -1,7 +1,7 @@
 
 function index() {
     return (
-        0
+        "return nothing"
     )
 }
 
